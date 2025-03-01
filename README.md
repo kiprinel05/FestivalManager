@@ -1,22 +1,22 @@
-# FestivalManager
+# FestivalManager 🎉
 
-FestivalManager este o aplicație dedicată organizării și gestionării eficiente a festivalurilor. Aceasta oferă funcționalități pentru administrarea artiștilor, vânzarea și gestionarea biletelor, precum și o interfață intuitivă pentru utilizatori.
+FestivalManager is an application designed for efficient festival organization and management. It offers features for managing artists, ticket sales, and provides an intuitive interface for users.
 
-## Funcționalități
+## Features 🛠️
 
-- **Gestionarea artiștilor** – Adăugarea, editarea și ștergerea artiștilor și programului acestora.
-- **Administrarea biletelor** – Crearea și gestionarea diferitelor tipuri de bilete.
-- **Persistența datelor** – Stocarea și încărcarea informațiilor despre festival folosind fișiere JSON.
-- **Interfață intuitivă** – Sistem de navigare simplu și accesibil utilizatorilor.
-- **Testare automată** – Implementare de teste unitare pentru validarea funcționalităților aplicației.
+- **Artist Management** 🎤 – Add, edit, and delete artists and their schedules.
+- **Ticket Management** 🎟️ – Create and manage various ticket types.
+- **Data Persistence** 💾 – Store and load festival information using JSON files.
+- **Intuitive Interface** 🌟 – A simple and accessible navigation system for users.
+- **Automated Testing** ✅ – Unit tests to validate the functionality of the application.
 
-## Tehnologii Utilizate
+## Technologies Used ⚙️
 
-- **Limbaj**: Java
-- **Framework-uri**: Gson pentru gestionarea datelor
-- **Persistența datelor**: Stocare în fișiere JSON
-- **Testare**: JUnit
+- **Language**: Java ☕
+- **Frameworks**: Gson for data management 📊
+- **Data Persistence**: JSON file storage 🗄️
+- **Testing**: JUnit for unit tests 🔬
 
-## Utilizare
+## Usage 📲
 
-FestivalManager este conceput atât pentru organizatorii de evenimente, care pot gestiona cu ușurință programul și biletele, cât și pentru participanții care doresc acces rapid la informațiile festivalului.
+FestivalManager is designed for both event organizers, who can easily manage the schedule and tickets, and participants who want quick access to festival information.
